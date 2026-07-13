@@ -1,4 +1,4 @@
-bonjour!
+你好！hello！bonjour!
 
 🎓 Junior @ School of Information Management,Wuhan University.
 
