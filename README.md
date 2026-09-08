@@ -15,14 +15,6 @@ Currently Learning
 - Vision Language Models
 - Deep Learning
 
-Projects
-
-📌 theMedtis-assistant (Under Development)
-→ 基于医学文献生成报告
-
-📌 Toolkit (Under Development)
-→ 自己写的一些工具
-
 Goal--Looking for
 
 - AI Research Collaboration
