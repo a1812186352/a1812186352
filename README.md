@@ -15,6 +15,11 @@ Currently Learning
 - Vision Language Models
 - Deep Learning
 
+Achievements
+
+- 🏆 **Best Art Award — Yiguang 2026 × Global Game Jam**  
+  *《绘木小札》 · Team 归津梦迷 · Wuhan University*
+
 Goal--Looking for
 
 - AI Research Collaboration
