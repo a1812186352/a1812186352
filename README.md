@@ -26,6 +26,6 @@ Goal--Looking for
 - Open Source Projects
 - Remote Internship
 
-wechat：Dea_dor_evi
+wechat：BKYuGaCi
 
-email:a1812186352@163.com
+email:ccf18121@whu.edu.cn
