@@ -11,8 +11,7 @@ Currently
 
 Currently Learning
 
-- Medical Image Foundation Models
-- Vision Language Models
+- Language Models
 - Deep Learning
 
 Achievements
