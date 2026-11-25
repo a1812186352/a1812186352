@@ -2,7 +2,7 @@
 
 🎓 Junior @ School of Information Management,Wuhan University.
 
-Interested in Medical AI / LLM / Computer Vision.
+Interested in Medical AI / LLM / Game Design
 
 Currently
 
